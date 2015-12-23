@@ -20,6 +20,8 @@
 
 * Begin blog
 
-#### Deadline for phase 1: Jan 15
+#### Deadline for phase 1 learning: Jan 15
+#### Deadline for personal website: Jan 15
 #### Deadline for blog: Feb 15
-#### Deadline for phase 2: May 2016
+#### Deadline for phase 2: March 2016
+#### Deadline for cool project: May 2016
