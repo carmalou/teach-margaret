@@ -16,6 +16,10 @@
 * Build personal website
 * Think of cool project && complete it
 
-## Things to do (Phase 2):
+## Things to do (blog):
 
 * Begin blog
+
+#### Deadline for phase 1: Jan 15
+#### Deadline for blog: Feb 15
+#### Deadline for phase 2: May 2016
